@@ -3,6 +3,14 @@
 *.lo
 *.o
 *.obj
+*.pdb
+*.log
+*.sdf
+*.idb
+*.suo
+*ipch
+*.ilk
+*.tlog
 
 # Precompiled Headers
 *.gch
