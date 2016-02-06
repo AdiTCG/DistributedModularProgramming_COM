@@ -24,5 +24,6 @@ void Circle::SetRadius(double dRadius)
 double Circle::GetArea()
 {
 	double dArea = MATH_PI * this->m_dRadius * this->m_dRadius;
+	cout << "Some other change" << endl;
 	return(dArea);
 }
